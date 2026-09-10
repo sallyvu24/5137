@@ -1,0 +1,31 @@
+"REGISTRATIONNO","CARMODEL","MANUFACTURINGYEAR","CARBODYTYPE","NUMSEATS"
+Car01,CapitalX,2010,Bus,40
+Car02,CapitalX pro,2010,Bus,40
+Car03,CapitalY,2011,Bus,40
+Car04,CapitalY pro,2011,Bus,40
+Car05,RunnerV1,2006,Bus,40
+Car06,RunnerV2,2007,Bus,40
+Car07,RunnerV3,2008,Bus,40
+Car08,RunnerV4,2009,Bus,40
+Car09,RunnerV5,2010,Bus,40
+Car10,RunnerV6,2011,Bus,40
+Car11,TrailblazerA,2012,Mini Bus,20
+Car12,TrailblazerA pro,2012,Mini Bus,20
+Car13,TrailblazerB,2013,Mini Bus,20
+Car14,TrailblazerB2 pro,2013,Mini Bus,20
+Car15,VanX,2008,Mini Bus,20
+Car16,VanX pro,2008,Mini Bus,20
+Car17,VanY,2009,Mini Bus,20
+Car18,VanY pro,2009,Mini Bus,20
+Car19,VanZ,2010,Mini Bus,20
+Car20,VanZ pro,2010,Mini Bus,20
+Car21,AdventurerX,2012,People Mover,10
+Car22,AdventurerX pro,2012,People Mover,10
+Car23,AdventurerY,2013,People Mover,10
+Car24,AdventurerY pro,2013,People Mover,10
+Car25,AdventurerZ,2014,People Mover,10
+Car26,AdventurerZ pro,2014,People Mover,10
+Car27,PhoenixV1,2013,People Mover,10
+Car28,PhoenixV1 pro,2013,People Mover,10
+Car29,PhoenixV2,2014,People Mover,10
+Car30,PhoenixV2 pro,2014,People Mover,10

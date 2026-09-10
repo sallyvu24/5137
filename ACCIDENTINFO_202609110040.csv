@@ -1,0 +1,995 @@
+"ACCIDENTID","ACCIDENTZONE","CAR_DAMAGE_SEVERITY","ERRORCODE"
+A632,ZoneA,No damage,Error002
+A633,ZoneB,No damage,Error002
+A634,ZoneB,Severe damage,Error001
+A635,ZoneD,Severe damage,Error001
+A636,ZoneC,Severe damage,Error005
+A637,ZoneA,Very minor damage,Error004
+A638,ZoneC,No damage,Error002
+A639,ZoneC,No damage,Error002
+A640,ZoneC,No damage,Error002
+A641,ZoneB,No damage,Error002
+A642,ZoneA,No damage,Error002
+A643,ZoneB,Moderate damage,Error004
+A644,ZoneA,Minor damage,Error004
+A645,ZoneD,No damage,Error002
+A646,ZoneD,No damage,Error002
+A647,ZoneD,No damage,Error002
+A648,ZoneB,No damage,Error002
+A649,ZoneB,Severe damage,Error003
+A650,ZoneA,Severe damage,Error004
+A651,ZoneA,Very minor damage,Error004
+A652,ZoneB,Severe damage,Error001
+A653,ZoneA,Very minor damage,Error003
+A654,ZoneC,Minor damage,Error005
+A655,ZoneB,No damage,Error002
+A656,ZoneD,Moderate damage,Error001
+A657,ZoneC,Very minor damage,Error005
+A658,ZoneC,Minor damage,Error004
+A659,ZoneA,No damage,Error002
+A660,ZoneC,Severe damage,Error005
+A661,ZoneC,Moderate damage,Error003
+A662,ZoneC,Severe damage,Error001
+A663,ZoneD,Minor damage,Error001
+A665,ZoneA,Severe damage,Error004
+A666,ZoneA,Moderate damage,Error004
+A667,ZoneB,Moderate damage,Error003
+A668,ZoneC,No damage,Error002
+A669,ZoneD,No damage,Error002
+A670,ZoneA,No damage,Error002
+A671,ZoneD,No damage,Error002
+A672,ZoneC,Minor damage,Error003
+A673,ZoneD,Severe damage,Error003
+A674,ZoneD,Moderate damage,Error005
+A675,ZoneA,Moderate damage,Error005
+A676,ZoneD,Very minor damage,Error001
+A677,ZoneC,Moderate damage,Error004
+A678,ZoneC,No damage,Error002
+A679,ZoneB,Severe damage,Error004
+A680,ZoneB,Severe damage,Error004
+A681,ZoneC,Severe damage,Error004
+A682,ZoneC,No damage,Error002
+A683,ZoneD,Minor damage,Error005
+A684,ZoneC,Severe damage,Error001
+A685,ZoneC,Very minor damage,Error001
+A686,ZoneB,No damage,Error002
+A687,ZoneB,Minor damage,Error005
+A688,ZoneA,Minor damage,Error001
+A689,ZoneD,No damage,Error002
+A691,ZoneD,No damage,Error002
+A692,ZoneD,Very minor damage,Error005
+A693,ZoneA,Minor damage,Error005
+A694,ZoneC,Very minor damage,Error005
+A695,ZoneB,Minor damage,Error003
+A696,ZoneC,Minor damage,Error003
+A697,ZoneD,Minor damage,Error001
+A698,ZoneC,Very minor damage,Error001
+A699,ZoneA,No damage,Error002
+A700,ZoneC,Moderate damage,Error004
+A701,ZoneD,No damage,Error002
+A702,ZoneA,Very minor damage,Error003
+A703,ZoneB,Moderate damage,Error001
+A704,ZoneD,Very minor damage,Error003
+A705,ZoneA,No damage,Error002
+A706,ZoneB,No damage,Error002
+A707,ZoneB,Minor damage,Error004
+A708,ZoneA,Minor damage,Error003
+A709,ZoneD,Minor damage,Error004
+A710,ZoneB,No damage,Error002
+A711,ZoneC,Moderate damage,Error005
+A712,ZoneD,Severe damage,Error003
+A713,ZoneB,Moderate damage,Error003
+A714,ZoneA,Moderate damage,Error001
+A715,ZoneA,Moderate damage,Error003
+A716,ZoneB,Minor damage,Error001
+A717,ZoneC,Minor damage,Error005
+A718,ZoneA,Very minor damage,Error004
+A719,ZoneA,No damage,Error002
+A720,ZoneB,Moderate damage,Error004
+A721,ZoneC,Severe damage,Error005
+A722,ZoneC,Very minor damage,Error005
+A723,ZoneC,Severe damage,Error004
+A724,ZoneC,No damage,Error002
+A725,ZoneA,No damage,Error002
+A726,ZoneD,Severe damage,Error004
+A727,ZoneB,No damage,Error002
+A728,ZoneC,No damage,Error002
+A729,ZoneA,Minor damage,Error005
+A730,ZoneB,Very minor damage,Error003
+A731,ZoneC,Minor damage,Error003
+A732,ZoneC,Very minor damage,Error003
+A733,ZoneC,No damage,Error002
+A734,ZoneA,Severe damage,Error001
+A735,ZoneD,No damage,Error002
+A736,ZoneB,Severe damage,Error001
+A737,ZoneA,Very minor damage,Error004
+A738,ZoneC,Moderate damage,Error005
+A739,ZoneB,Very minor damage,Error003
+A740,ZoneA,Moderate damage,Error005
+A741,ZoneB,Very minor damage,Error005
+A742,ZoneD,Minor damage,Error005
+A743,ZoneD,No damage,Error002
+A744,ZoneD,No damage,Error002
+A745,ZoneC,No damage,Error002
+A746,ZoneD,No damage,Error002
+A747,ZoneA,Severe damage,Error005
+A748,ZoneB,Severe damage,Error004
+A749,ZoneB,Very minor damage,Error004
+A750,ZoneC,Minor damage,Error001
+A751,ZoneD,Very minor damage,Error005
+A752,ZoneA,Moderate damage,Error005
+A753,ZoneA,No damage,Error002
+A754,ZoneA,Minor damage,Error003
+A755,ZoneD,Severe damage,Error005
+A756,ZoneD,Severe damage,Error001
+A757,ZoneA,Severe damage,Error004
+A758,ZoneC,No damage,Error002
+A759,ZoneC,No damage,Error002
+A760,ZoneD,No damage,Error002
+A761,ZoneB,No damage,Error002
+A762,ZoneC,Minor damage,Error004
+A763,ZoneD,No damage,Error002
+A764,ZoneD,Severe damage,Error001
+A765,ZoneA,Moderate damage,Error003
+A766,ZoneB,Very minor damage,Error004
+A767,ZoneB,No damage,Error002
+A768,ZoneD,No damage,Error002
+A769,ZoneB,Minor damage,Error005
+A770,ZoneC,No damage,Error002
+A771,ZoneD,Moderate damage,Error003
+A772,ZoneA,No damage,Error002
+A773,ZoneB,Minor damage,Error001
+A774,ZoneA,Moderate damage,Error005
+A775,ZoneD,No damage,Error002
+A776,ZoneC,No damage,Error002
+A777,ZoneB,Moderate damage,Error004
+A778,ZoneB,Very minor damage,Error005
+A779,ZoneA,Severe damage,Error004
+A780,ZoneC,Minor damage,Error004
+A781,ZoneC,Very minor damage,Error005
+A782,ZoneA,Minor damage,Error004
+A783,ZoneC,Very minor damage,Error005
+A784,ZoneA,Moderate damage,Error005
+A785,ZoneD,Moderate damage,Error003
+A786,ZoneD,Moderate damage,Error004
+A787,ZoneB,No damage,Error002
+A788,ZoneB,Severe damage,Error005
+A789,ZoneB,Moderate damage,Error001
+A136,ZoneA,No damage,Error002
+A249,ZoneC,Very minor damage,Error003
+A286,ZoneD,Severe damage,Error004
+A308,ZoneA,Minor damage,Error004
+A309,ZoneA,Very minor damage,Error005
+A310,ZoneA,Very minor damage,Error001
+A311,ZoneA,Severe damage,Error005
+A312,ZoneD,No damage,Error002
+A313,ZoneA,No damage,Error002
+A314,ZoneA,No damage,Error002
+A315,ZoneB,No damage,Error002
+A316,ZoneB,Moderate damage,Error001
+A317,ZoneD,No damage,Error002
+A318,ZoneD,Moderate damage,Error005
+A319,ZoneD,No damage,Error002
+A320,ZoneD,Moderate damage,Error001
+A321,ZoneB,Very minor damage,Error004
+A322,ZoneD,Severe damage,Error001
+A323,ZoneC,No damage,Error002
+A324,ZoneB,No damage,Error002
+A325,ZoneB,Minor damage,Error004
+A326,ZoneD,No damage,Error002
+A327,ZoneD,No damage,Error002
+A328,ZoneD,Moderate damage,Error005
+A329,ZoneC,No damage,Error002
+A330,ZoneB,Very minor damage,Error003
+A331,ZoneD,Moderate damage,Error004
+A332,ZoneD,Severe damage,Error004
+A333,ZoneC,Minor damage,Error005
+A334,ZoneD,Minor damage,Error004
+A335,ZoneB,Severe damage,Error001
+A336,ZoneA,Minor damage,Error001
+A337,ZoneA,Minor damage,Error001
+A338,ZoneB,Minor damage,Error004
+A339,ZoneA,Severe damage,Error005
+A340,ZoneA,Severe damage,Error003
+A341,ZoneA,Moderate damage,Error005
+A342,ZoneA,No damage,Error002
+A343,ZoneC,No damage,Error002
+A344,ZoneD,Moderate damage,Error001
+A346,ZoneD,No damage,Error002
+A347,ZoneA,Moderate damage,Error003
+A348,ZoneD,No damage,Error002
+A349,ZoneD,Severe damage,Error001
+A350,ZoneB,Moderate damage,Error005
+A351,ZoneC,No damage,Error002
+A352,ZoneA,Very minor damage,Error003
+A353,ZoneB,No damage,Error002
+A354,ZoneC,Very minor damage,Error005
+A355,ZoneD,No damage,Error002
+A356,ZoneC,Very minor damage,Error003
+A358,ZoneC,Severe damage,Error003
+A359,ZoneC,Very minor damage,Error005
+A360,ZoneA,No damage,Error002
+A361,ZoneA,No damage,Error002
+A362,ZoneB,No damage,Error002
+A363,ZoneA,Minor damage,Error001
+A364,ZoneB,No damage,Error002
+A365,ZoneC,Severe damage,Error005
+A366,ZoneA,Severe damage,Error003
+A367,ZoneA,Severe damage,Error003
+A368,ZoneB,Very minor damage,Error005
+A369,ZoneB,Moderate damage,Error003
+A370,ZoneB,Very minor damage,Error003
+A371,ZoneC,No damage,Error002
+A372,ZoneC,Severe damage,Error001
+A373,ZoneC,No damage,Error002
+A374,ZoneA,Minor damage,Error003
+A375,ZoneA,Moderate damage,Error003
+A376,ZoneD,Minor damage,Error001
+A377,ZoneD,No damage,Error002
+A378,ZoneB,Severe damage,Error004
+A379,ZoneB,No damage,Error002
+A380,ZoneD,Very minor damage,Error004
+A381,ZoneB,Minor damage,Error003
+A382,ZoneB,Severe damage,Error005
+A383,ZoneD,Very minor damage,Error004
+A384,ZoneD,Severe damage,Error004
+A385,ZoneA,No damage,Error002
+A386,ZoneB,No damage,Error002
+A387,ZoneC,Very minor damage,Error005
+A388,ZoneA,Moderate damage,Error005
+A389,ZoneD,No damage,Error002
+A390,ZoneA,No damage,Error002
+A391,ZoneA,No damage,Error002
+A392,ZoneC,Minor damage,Error004
+A393,ZoneB,Severe damage,Error001
+A394,ZoneB,Moderate damage,Error003
+A395,ZoneB,No damage,Error002
+A396,ZoneB,No damage,Error002
+A397,ZoneD,Severe damage,Error004
+A398,ZoneB,Severe damage,Error004
+A399,ZoneA,Moderate damage,Error004
+A400,ZoneD,Moderate damage,Error001
+A401,ZoneA,No damage,Error002
+A402,ZoneD,Minor damage,Error005
+A403,ZoneC,Severe damage,Error005
+A404,ZoneA,Minor damage,Error004
+A405,ZoneA,No damage,Error002
+A406,ZoneC,No damage,Error002
+A407,ZoneC,No damage,Error002
+A408,ZoneA,Severe damage,Error003
+A409,ZoneB,Very minor damage,Error001
+A410,ZoneC,No damage,Error002
+A411,ZoneA,No damage,Error002
+A412,ZoneD,Moderate damage,Error005
+A413,ZoneB,No damage,Error002
+A414,ZoneA,No damage,Error002
+A415,ZoneA,No damage,Error002
+A416,ZoneB,Very minor damage,Error003
+A417,ZoneD,No damage,Error002
+A418,ZoneB,Severe damage,Error003
+A419,ZoneC,No damage,Error002
+A420,ZoneC,No damage,Error002
+A421,ZoneB,Very minor damage,Error003
+A422,ZoneD,Minor damage,Error005
+A423,ZoneB,Minor damage,Error003
+A424,ZoneC,Minor damage,Error001
+A425,ZoneC,Severe damage,Error001
+A426,ZoneD,Severe damage,Error004
+A427,ZoneC,Moderate damage,Error005
+A428,ZoneD,Severe damage,Error001
+A429,ZoneC,No damage,Error002
+A430,ZoneC,Minor damage,Error005
+A431,ZoneA,Moderate damage,Error003
+A432,ZoneA,No damage,Error002
+A433,ZoneB,Very minor damage,Error003
+A434,ZoneA,No damage,Error002
+A435,ZoneD,Severe damage,Error005
+A436,ZoneB,Minor damage,Error001
+A437,ZoneA,Moderate damage,Error003
+A438,ZoneC,Very minor damage,Error005
+A439,ZoneD,Severe damage,Error004
+A440,ZoneA,No damage,Error002
+A441,ZoneA,Moderate damage,Error003
+A442,ZoneA,Very minor damage,Error004
+A443,ZoneD,Very minor damage,Error001
+A444,ZoneA,Severe damage,Error003
+A445,ZoneB,No damage,Error002
+A446,ZoneC,Severe damage,Error001
+A447,ZoneA,Severe damage,Error001
+A448,ZoneD,Minor damage,Error005
+A449,ZoneC,Very minor damage,Error004
+A450,ZoneB,Moderate damage,Error004
+A451,ZoneC,Very minor damage,Error001
+A452,ZoneA,Moderate damage,Error005
+A453,ZoneC,Moderate damage,Error005
+A454,ZoneB,Moderate damage,Error003
+A455,ZoneD,No damage,Error002
+A456,ZoneD,No damage,Error002
+A457,ZoneA,No damage,Error002
+A458,ZoneD,Severe damage,Error005
+A459,ZoneA,No damage,Error002
+A460,ZoneB,No damage,Error002
+A461,ZoneA,Severe damage,Error001
+A462,ZoneC,Moderate damage,Error003
+A463,ZoneC,Very minor damage,Error004
+A464,ZoneD,Minor damage,Error001
+A465,ZoneB,Moderate damage,Error004
+A466,ZoneB,No damage,Error002
+A467,ZoneD,No damage,Error002
+A468,ZoneC,Very minor damage,Error004
+A469,ZoneB,Moderate damage,Error005
+A470,ZoneD,No damage,Error002
+A471,ZoneA,Very minor damage,Error005
+A472,ZoneC,No damage,Error002
+A473,ZoneB,Minor damage,Error004
+A474,ZoneA,Very minor damage,Error003
+A475,ZoneD,No damage,Error002
+A476,ZoneC,Minor damage,Error005
+A477,ZoneC,No damage,Error002
+A478,ZoneC,No damage,Error002
+A479,ZoneC,No damage,Error002
+A480,ZoneA,Minor damage,Error004
+A481,ZoneD,Minor damage,Error004
+A482,ZoneA,No damage,Error002
+A483,ZoneB,Severe damage,Error005
+A484,ZoneC,No damage,Error002
+A485,ZoneC,Very minor damage,Error003
+A486,ZoneB,Moderate damage,Error005
+A487,ZoneA,No damage,Error002
+A488,ZoneB,Minor damage,Error001
+A489,ZoneA,Moderate damage,Error001
+A490,ZoneB,Minor damage,Error003
+A491,ZoneB,Minor damage,Error001
+A492,ZoneB,Minor damage,Error003
+A493,ZoneB,Severe damage,Error003
+A494,ZoneD,Severe damage,Error003
+A495,ZoneB,Very minor damage,Error004
+A496,ZoneC,Severe damage,Error005
+A497,ZoneD,Moderate damage,Error003
+A498,ZoneA,Severe damage,Error004
+A499,ZoneA,No damage,Error002
+A500,ZoneC,Moderate damage,Error004
+A501,ZoneA,No damage,Error002
+A502,ZoneD,No damage,Error002
+A503,ZoneA,No damage,Error002
+A504,ZoneD,Very minor damage,Error001
+A505,ZoneC,Severe damage,Error003
+A506,ZoneC,Very minor damage,Error004
+A507,ZoneD,No damage,Error002
+A508,ZoneD,Severe damage,Error003
+A509,ZoneD,Severe damage,Error005
+A510,ZoneB,No damage,Error002
+A511,ZoneB,No damage,Error002
+A512,ZoneA,No damage,Error002
+A513,ZoneC,No damage,Error002
+A514,ZoneC,Severe damage,Error005
+A515,ZoneB,No damage,Error002
+A516,ZoneB,Very minor damage,Error003
+A517,ZoneD,Moderate damage,Error004
+A518,ZoneA,Minor damage,Error003
+A519,ZoneC,No damage,Error002
+A520,ZoneC,Very minor damage,Error001
+A521,ZoneD,No damage,Error002
+A522,ZoneA,Very minor damage,Error003
+A523,ZoneA,Minor damage,Error005
+A524,ZoneD,Very minor damage,Error001
+A525,ZoneD,Minor damage,Error003
+A526,ZoneA,Minor damage,Error001
+A527,ZoneA,Very minor damage,Error001
+A528,ZoneC,Very minor damage,Error003
+A529,ZoneD,No damage,Error002
+A530,ZoneC,Very minor damage,Error004
+A531,ZoneD,No damage,Error002
+A532,ZoneD,No damage,Error002
+A533,ZoneC,Very minor damage,Error001
+A534,ZoneA,No damage,Error002
+A535,ZoneD,No damage,Error002
+A536,ZoneC,Moderate damage,Error004
+A537,ZoneD,No damage,Error002
+A538,ZoneD,No damage,Error002
+A539,ZoneA,Minor damage,Error001
+A540,ZoneD,Minor damage,Error004
+A541,ZoneA,Minor damage,Error003
+A542,ZoneC,Moderate damage,Error001
+A543,ZoneC,No damage,Error002
+A544,ZoneA,Moderate damage,Error001
+A545,ZoneC,Severe damage,Error005
+A546,ZoneD,No damage,Error002
+A547,ZoneB,No damage,Error002
+A548,ZoneA,Minor damage,Error003
+A549,ZoneC,Very minor damage,Error001
+A550,ZoneC,Minor damage,Error001
+A551,ZoneB,No damage,Error002
+A552,ZoneC,No damage,Error002
+A553,ZoneC,No damage,Error002
+A554,ZoneA,Moderate damage,Error001
+A555,ZoneA,Severe damage,Error004
+A556,ZoneD,Minor damage,Error001
+A557,ZoneD,Severe damage,Error001
+A558,ZoneA,Very minor damage,Error003
+A559,ZoneA,Severe damage,Error001
+A560,ZoneB,No damage,Error002
+A561,ZoneD,Severe damage,Error001
+A562,ZoneB,Moderate damage,Error004
+A563,ZoneD,No damage,Error002
+A564,ZoneC,Moderate damage,Error005
+A565,ZoneC,Very minor damage,Error004
+A566,ZoneA,No damage,Error002
+A567,ZoneA,No damage,Error002
+A568,ZoneA,Severe damage,Error001
+A569,ZoneA,No damage,Error002
+A570,ZoneB,No damage,Error002
+A571,ZoneC,No damage,Error002
+A572,ZoneB,Very minor damage,Error003
+A573,ZoneC,No damage,Error002
+A574,ZoneD,Severe damage,Error001
+A575,ZoneA,Moderate damage,Error001
+A576,ZoneA,Very minor damage,Error003
+A577,ZoneB,Severe damage,Error003
+A578,ZoneC,Very minor damage,Error001
+A579,ZoneC,Minor damage,Error005
+A580,ZoneC,Severe damage,Error005
+A581,ZoneD,No damage,Error002
+A582,ZoneD,No damage,Error002
+A583,ZoneD,Very minor damage,Error003
+A584,ZoneA,No damage,Error002
+A585,ZoneB,Moderate damage,Error001
+A586,ZoneA,Minor damage,Error001
+A587,ZoneC,No damage,Error002
+A588,ZoneC,No damage,Error002
+A589,ZoneD,No damage,Error002
+A590,ZoneC,Very minor damage,Error001
+A591,ZoneD,Severe damage,Error005
+A592,ZoneB,No damage,Error002
+A593,ZoneB,Minor damage,Error001
+A594,ZoneA,Minor damage,Error005
+A595,ZoneB,Severe damage,Error003
+A596,ZoneC,Minor damage,Error003
+A597,ZoneC,Minor damage,Error004
+A598,ZoneC,No damage,Error002
+A599,ZoneB,Minor damage,Error005
+A600,ZoneA,Minor damage,Error003
+A601,ZoneA,Moderate damage,Error001
+A602,ZoneB,No damage,Error002
+A603,ZoneD,Very minor damage,Error004
+A604,ZoneA,Severe damage,Error003
+A605,ZoneA,No damage,Error002
+A606,ZoneA,Minor damage,Error003
+A607,ZoneC,Minor damage,Error001
+A608,ZoneB,No damage,Error002
+A609,ZoneD,Minor damage,Error003
+A610,ZoneC,Severe damage,Error004
+A611,ZoneB,Very minor damage,Error005
+A612,ZoneD,Severe damage,Error005
+A613,ZoneD,No damage,Error002
+A614,ZoneB,No damage,Error002
+A615,ZoneB,No damage,Error002
+A616,ZoneA,Minor damage,Error001
+A617,ZoneC,No damage,Error002
+A618,ZoneA,Severe damage,Error003
+A619,ZoneD,No damage,Error002
+A620,ZoneC,Minor damage,Error005
+A621,ZoneD,Moderate damage,Error005
+A622,ZoneB,Moderate damage,Error001
+A623,ZoneD,Minor damage,Error003
+A624,ZoneA,Minor damage,Error004
+A625,ZoneD,Minor damage,Error001
+A626,ZoneD,Severe damage,Error001
+A628,ZoneD,No damage,Error002
+A629,ZoneD,Severe damage,Error001
+A630,ZoneB,No damage,Error002
+A631,ZoneC,Minor damage,Error004
+A947,ZoneC,Moderate damage,Error001
+A948,ZoneA,Very minor damage,Error004
+A949,ZoneA,No damage,Error002
+A950,ZoneB,Very minor damage,Error003
+A951,ZoneD,No damage,Error002
+A952,ZoneB,Severe damage,Error001
+A953,ZoneB,No damage,Error002
+A954,ZoneA,Very minor damage,Error004
+A955,ZoneC,No damage,Error002
+A956,ZoneA,No damage,Error002
+A957,ZoneD,No damage,Error002
+A958,ZoneC,Moderate damage,Error003
+A959,ZoneD,Moderate damage,Error001
+A960,ZoneC,Severe damage,Error003
+A961,ZoneB,Minor damage,Error005
+A962,ZoneB,Moderate damage,Error005
+A963,ZoneD,No damage,Error002
+A964,ZoneC,Minor damage,Error005
+A965,ZoneC,Moderate damage,Error001
+A966,ZoneC,Moderate damage,Error005
+A967,ZoneA,Severe damage,Error004
+A968,ZoneA,Very minor damage,Error004
+A969,ZoneD,Moderate damage,Error005
+A970,ZoneC,No damage,Error002
+A971,ZoneA,No damage,Error002
+A972,ZoneB,Severe damage,Error004
+A973,ZoneA,Minor damage,Error005
+A974,ZoneA,Severe damage,Error001
+A975,ZoneD,No damage,Error002
+A976,ZoneD,Moderate damage,Error005
+A977,ZoneC,Severe damage,Error001
+A978,ZoneC,Severe damage,Error005
+A979,ZoneB,Moderate damage,Error004
+A980,ZoneA,No damage,Error002
+A982,ZoneC,Very minor damage,Error003
+A983,ZoneA,No damage,Error002
+A984,ZoneC,No damage,Error002
+A985,ZoneD,Moderate damage,Error005
+A987,ZoneD,Moderate damage,Error001
+A988,ZoneA,No damage,Error002
+A989,ZoneB,No damage,Error002
+A990,ZoneA,No damage,Error002
+A991,ZoneD,No damage,Error002
+A992,ZoneB,Moderate damage,Error001
+A993,ZoneD,Moderate damage,Error001
+A994,ZoneA,Severe damage,Error001
+A995,ZoneC,Very minor damage,Error004
+A996,ZoneC,Minor damage,Error004
+A997,ZoneA,Very minor damage,Error001
+A998,ZoneA,Severe damage,Error001
+A999,ZoneC,Very minor damage,Error005
+A1000,ZoneB,Severe damage,Error001
+A1001,ZoneB,Severe damage,Error001
+A1002,ZoneC,Severe damage,Error005
+A1003,ZoneC,No damage,Error002
+A1004,ZoneB,No damage,Error002
+A1005,ZoneC,Minor damage,Error003
+A1006,ZoneA,No damage,Error002
+A1007,ZoneD,Severe damage,Error001
+A1008,ZoneD,Minor damage,Error004
+A1009,ZoneD,Moderate damage,Error004
+A1010,ZoneB,Moderate damage,Error005
+A1011,ZoneC,No damage,Error002
+A1012,ZoneC,No damage,Error002
+A1013,ZoneC,Very minor damage,Error004
+A1014,ZoneC,Severe damage,Error001
+A1015,ZoneD,No damage,Error002
+A1016,ZoneC,Severe damage,Error004
+A1017,ZoneB,Severe damage,Error004
+A1018,ZoneB,Severe damage,Error003
+A1019,ZoneD,Very minor damage,Error005
+A1020,ZoneD,No damage,Error002
+A1021,ZoneA,Minor damage,Error001
+A1022,ZoneA,No damage,Error002
+A1023,ZoneD,Minor damage,Error001
+A1024,ZoneD,No damage,Error002
+A1025,ZoneB,Very minor damage,Error003
+A1026,ZoneD,Very minor damage,Error003
+A1027,ZoneC,No damage,Error002
+A1028,ZoneA,Severe damage,Error003
+A1029,ZoneD,Severe damage,Error004
+A1030,ZoneC,No damage,Error002
+A1031,ZoneA,Moderate damage,Error001
+A1032,ZoneC,Very minor damage,Error003
+A1033,ZoneC,Moderate damage,Error005
+A1034,ZoneC,Very minor damage,Error003
+A1035,ZoneD,No damage,Error002
+A1036,ZoneD,Very minor damage,Error005
+A1037,ZoneD,No damage,Error002
+A1038,ZoneB,Minor damage,Error001
+A1039,ZoneA,No damage,Error002
+A1040,ZoneD,Severe damage,Error003
+A1041,ZoneB,Moderate damage,Error001
+A1042,ZoneC,No damage,Error002
+A1043,ZoneC,No damage,Error002
+A1044,ZoneD,No damage,Error002
+A1045,ZoneD,Severe damage,Error003
+A1046,ZoneA,Minor damage,Error003
+A1047,ZoneB,Moderate damage,Error001
+A1048,ZoneA,Severe damage,Error003
+A1049,ZoneA,Severe damage,Error003
+A1050,ZoneB,No damage,Error002
+A1051,ZoneA,No damage,Error002
+A1052,ZoneC,Severe damage,Error004
+A1053,ZoneA,Very minor damage,Error003
+A1054,ZoneB,Very minor damage,Error004
+A1055,ZoneD,Very minor damage,Error005
+A1056,ZoneD,Minor damage,Error001
+A1057,ZoneC,Very minor damage,Error003
+A1058,ZoneD,No damage,Error002
+A1059,ZoneB,No damage,Error002
+A1060,ZoneD,Minor damage,Error005
+A1061,ZoneC,Very minor damage,Error001
+A1062,ZoneD,No damage,Error002
+A1063,ZoneD,Very minor damage,Error003
+A1064,ZoneA,Very minor damage,Error004
+A1065,ZoneB,Severe damage,Error001
+A1066,ZoneC,Minor damage,Error003
+A1067,ZoneC,Moderate damage,Error005
+A1068,ZoneD,Minor damage,Error003
+A1069,ZoneB,No damage,Error002
+A1070,ZoneD,No damage,Error002
+A1071,ZoneA,Very minor damage,Error001
+A1072,ZoneC,Very minor damage,Error003
+A1074,ZoneD,Severe damage,Error005
+A1075,ZoneD,Severe damage,Error004
+A1076,ZoneD,Very minor damage,Error005
+A1077,ZoneC,No damage,Error002
+A1078,ZoneD,No damage,Error002
+A1079,ZoneA,Minor damage,Error003
+A1080,ZoneD,Very minor damage,Error001
+A1081,ZoneB,Minor damage,Error003
+A1082,ZoneA,Moderate damage,Error004
+A1083,ZoneB,No damage,Error002
+A1084,ZoneC,Very minor damage,Error001
+A1085,ZoneB,No damage,Error002
+A1086,ZoneA,Very minor damage,Error003
+A1087,ZoneC,Minor damage,Error005
+A1088,ZoneC,Moderate damage,Error003
+A1089,ZoneA,No damage,Error002
+A1090,ZoneC,No damage,Error002
+A1091,ZoneB,No damage,Error002
+A1092,ZoneD,Severe damage,Error004
+A1093,ZoneA,Severe damage,Error005
+A1094,ZoneA,No damage,Error002
+A1095,ZoneB,No damage,Error002
+A1096,ZoneB,No damage,Error002
+A1097,ZoneB,No damage,Error002
+A1098,ZoneB,Very minor damage,Error003
+A1099,ZoneD,No damage,Error002
+A1100,ZoneD,Moderate damage,Error004
+A1101,ZoneC,Very minor damage,Error005
+A1102,ZoneA,No damage,Error002
+A1103,ZoneC,No damage,Error002
+A1104,ZoneC,No damage,Error002
+A1105,ZoneC,Severe damage,Error003
+A1106,ZoneD,No damage,Error002
+A1107,ZoneB,Minor damage,Error004
+A1108,ZoneD,Minor damage,Error005
+A1109,ZoneC,No damage,Error002
+A1110,ZoneD,Minor damage,Error004
+A1111,ZoneD,Very minor damage,Error003
+A1112,ZoneB,No damage,Error002
+A1113,ZoneD,No damage,Error002
+A1114,ZoneD,No damage,Error002
+A1115,ZoneC,Severe damage,Error004
+A1116,ZoneC,No damage,Error002
+A1117,ZoneB,Minor damage,Error005
+A1118,ZoneC,No damage,Error002
+A1119,ZoneD,Very minor damage,Error001
+A1120,ZoneB,No damage,Error002
+A1121,ZoneA,Very minor damage,Error003
+A1122,ZoneC,No damage,Error002
+A1123,ZoneB,Moderate damage,Error005
+A1124,ZoneB,Moderate damage,Error004
+A1125,ZoneB,No damage,Error002
+A1126,ZoneA,Severe damage,Error005
+A1127,ZoneA,Severe damage,Error004
+A1128,ZoneD,Moderate damage,Error004
+A1129,ZoneB,No damage,Error002
+A1130,ZoneB,No damage,Error002
+A1131,ZoneA,Very minor damage,Error005
+A1132,ZoneC,Severe damage,Error003
+A1133,ZoneB,No damage,Error002
+A1134,ZoneB,Minor damage,Error003
+A1135,ZoneC,Severe damage,Error003
+A1136,ZoneC,Severe damage,Error004
+A1137,ZoneC,Moderate damage,Error004
+A1138,ZoneD,Severe damage,Error005
+A1139,ZoneB,Very minor damage,Error003
+A1140,ZoneD,Severe damage,Error004
+A1141,ZoneC,No damage,Error002
+A1142,ZoneC,Very minor damage,Error001
+A1143,ZoneA,Moderate damage,Error003
+A1144,ZoneC,No damage,Error002
+A1145,ZoneB,No damage,Error002
+A1146,ZoneA,Minor damage,Error005
+A1147,ZoneC,No damage,Error002
+A1148,ZoneC,No damage,Error002
+A1149,ZoneD,Moderate damage,Error001
+A1150,ZoneA,No damage,Error002
+A1151,ZoneA,Very minor damage,Error001
+A1152,ZoneA,No damage,Error002
+A1153,ZoneA,No damage,Error002
+A1154,ZoneB,Very minor damage,Error004
+A1155,ZoneA,No damage,Error002
+A1156,ZoneB,No damage,Error002
+A1157,ZoneB,No damage,Error002
+A1158,ZoneA,Severe damage,Error001
+A1159,ZoneC,Severe damage,Error005
+A1160,ZoneB,No damage,Error002
+A1161,ZoneA,No damage,Error002
+A1162,ZoneC,Very minor damage,Error004
+A1163,ZoneD,Minor damage,Error001
+A1164,ZoneB,No damage,Error002
+A1165,ZoneD,Moderate damage,Error001
+A1166,ZoneD,No damage,Error002
+A1167,ZoneB,Severe damage,Error004
+A1168,ZoneB,No damage,Error002
+A1169,ZoneC,Minor damage,Error004
+A1170,ZoneD,Very minor damage,Error001
+A1171,ZoneA,Moderate damage,Error001
+A1172,ZoneD,Very minor damage,Error001
+A1173,ZoneC,No damage,Error002
+A1174,ZoneA,Moderate damage,Error001
+A1175,ZoneD,Very minor damage,Error003
+A1176,ZoneD,Severe damage,Error005
+A1177,ZoneB,Very minor damage,Error001
+A1178,ZoneC,Very minor damage,Error005
+A1179,ZoneC,Moderate damage,Error005
+A1180,ZoneB,Minor damage,Error004
+A1181,ZoneA,No damage,Error002
+A1182,ZoneC,Very minor damage,Error005
+A1183,ZoneB,Very minor damage,Error003
+A1184,ZoneD,No damage,Error002
+A1185,ZoneD,No damage,Error002
+A1186,ZoneC,Very minor damage,Error003
+A1187,ZoneB,No damage,Error002
+A1188,ZoneD,No damage,Error002
+A1189,ZoneC,No damage,Error002
+A1190,ZoneC,Severe damage,Error001
+A1191,ZoneD,Moderate damage,Error004
+A1192,ZoneD,Minor damage,Error003
+A1193,ZoneA,Severe damage,Error003
+A1194,ZoneB,No damage,Error002
+A1195,ZoneC,Moderate damage,Error004
+A1196,ZoneD,Moderate damage,Error005
+A1197,ZoneC,Minor damage,Error001
+A1198,ZoneB,No damage,Error002
+A1199,ZoneD,Moderate damage,Error001
+A1200,ZoneA,No damage,Error002
+A1201,ZoneA,Minor damage,Error005
+A1202,ZoneA,Minor damage,Error003
+A1203,ZoneC,No damage,Error002
+A1204,ZoneB,No damage,Error002
+A1205,ZoneA,No damage,Error002
+A1206,ZoneB,Moderate damage,Error003
+A1207,ZoneB,Very minor damage,Error003
+A1208,ZoneD,No damage,Error002
+A1209,ZoneD,Minor damage,Error004
+A1210,ZoneC,No damage,Error002
+A1211,ZoneB,Moderate damage,Error003
+A1212,ZoneC,Very minor damage,Error003
+A1213,ZoneB,No damage,Error002
+A1214,ZoneC,No damage,Error002
+A1215,ZoneA,Moderate damage,Error004
+A1216,ZoneC,Moderate damage,Error001
+A1217,ZoneD,Moderate damage,Error001
+A1218,ZoneA,No damage,Error002
+A1219,ZoneC,No damage,Error002
+A1220,ZoneD,Severe damage,Error003
+A1221,ZoneC,Severe damage,Error003
+A1222,ZoneD,No damage,Error002
+A1223,ZoneB,No damage,Error002
+A1224,ZoneC,No damage,Error002
+A1225,ZoneD,No damage,Error002
+A1226,ZoneB,No damage,Error002
+A1227,ZoneD,Moderate damage,Error001
+A1229,ZoneD,Very minor damage,Error001
+A1230,ZoneB,Severe damage,Error005
+A1231,ZoneD,Minor damage,Error004
+A1232,ZoneD,No damage,Error002
+A1233,ZoneC,No damage,Error002
+A1234,ZoneB,Severe damage,Error003
+A1235,ZoneD,Moderate damage,Error004
+A1236,ZoneC,Severe damage,Error003
+A1237,ZoneA,No damage,Error002
+A1238,ZoneA,No damage,Error002
+A1239,ZoneC,Minor damage,Error005
+A1240,ZoneC,Severe damage,Error005
+A1241,ZoneD,Severe damage,Error001
+A1242,ZoneB,No damage,Error002
+A1243,ZoneB,Moderate damage,Error003
+A1244,ZoneA,Minor damage,Error004
+A1245,ZoneB,Very minor damage,Error005
+A1246,ZoneA,Severe damage,Error005
+A1247,ZoneC,No damage,Error002
+A1248,ZoneA,Very minor damage,Error001
+A1249,ZoneC,Severe damage,Error003
+A1250,ZoneC,Very minor damage,Error003
+A1251,ZoneD,Moderate damage,Error001
+A1252,ZoneC,Moderate damage,Error005
+A1253,ZoneD,Very minor damage,Error005
+A1254,ZoneB,No damage,Error002
+A1255,ZoneD,No damage,Error002
+A1257,ZoneB,Very minor damage,Error005
+A1258,ZoneA,Severe damage,Error005
+A1259,ZoneB,No damage,Error002
+A1260,ZoneD,Minor damage,Error001
+A1261,ZoneA,No damage,Error002
+A1262,ZoneA,Severe damage,Error003
+A1263,ZoneD,No damage,Error002
+A1264,ZoneB,No damage,Error002
+A1265,ZoneB,No damage,Error002
+A1266,ZoneA,Very minor damage,Error005
+A1267,ZoneA,Very minor damage,Error004
+A1268,ZoneC,Moderate damage,Error001
+A1270,ZoneB,No damage,Error002
+A1271,ZoneB,Minor damage,Error004
+A1272,ZoneB,No damage,Error002
+A1273,ZoneC,No damage,Error002
+A1274,ZoneC,Minor damage,Error001
+A1275,ZoneA,Minor damage,Error001
+A1276,ZoneC,Very minor damage,Error001
+A1277,ZoneB,Minor damage,Error005
+A1278,ZoneD,Moderate damage,Error005
+A1279,ZoneC,Minor damage,Error003
+A1280,ZoneC,Moderate damage,Error004
+A1281,ZoneB,No damage,Error002
+A1282,ZoneD,Severe damage,Error004
+A1283,ZoneB,No damage,Error002
+A1284,ZoneA,No damage,Error002
+A1285,ZoneC,Moderate damage,Error004
+A1286,ZoneB,No damage,Error002
+A1287,ZoneC,Severe damage,Error001
+A1288,ZoneC,No damage,Error002
+A1289,ZoneC,Moderate damage,Error003
+A1290,ZoneB,Moderate damage,Error001
+A1291,ZoneC,No damage,Error002
+A1292,ZoneC,Minor damage,Error003
+A1293,ZoneA,Moderate damage,Error005
+A1294,ZoneB,Severe damage,Error001
+A1295,ZoneA,No damage,Error002
+A1296,ZoneC,No damage,Error002
+A1297,ZoneA,No damage,Error002
+A1298,ZoneA,No damage,Error002
+A1299,ZoneA,No damage,Error002
+A1300,ZoneB,Very minor damage,Error003
+A1301,ZoneD,Minor damage,Error001
+A1302,ZoneB,No damage,Error002
+A1303,ZoneC,Very minor damage,Error001
+A1304,ZoneB,No damage,Error002
+A1305,ZoneC,No damage,Error002
+A1306,ZoneB,Moderate damage,Error004
+A1307,ZoneB,No damage,Error002
+A790,ZoneA,Moderate damage,Error004
+A791,ZoneB,Very minor damage,Error001
+A792,ZoneA,Severe damage,Error001
+A793,ZoneA,Moderate damage,Error004
+A794,ZoneB,No damage,Error002
+A795,ZoneC,No damage,Error002
+A796,ZoneA,No damage,Error002
+A797,ZoneD,Minor damage,Error005
+A798,ZoneD,Moderate damage,Error003
+A799,ZoneA,Very minor damage,Error004
+A800,ZoneC,No damage,Error002
+A801,ZoneB,No damage,Error002
+A802,ZoneD,Minor damage,Error005
+A803,ZoneB,No damage,Error002
+A804,ZoneC,No damage,Error002
+A805,ZoneD,Very minor damage,Error005
+A806,ZoneD,Minor damage,Error004
+A807,ZoneA,Moderate damage,Error004
+A808,ZoneB,Severe damage,Error004
+A809,ZoneC,Minor damage,Error003
+A810,ZoneC,Moderate damage,Error004
+A811,ZoneB,No damage,Error002
+A812,ZoneB,Severe damage,Error003
+A813,ZoneB,Very minor damage,Error001
+A814,ZoneB,Moderate damage,Error001
+A815,ZoneB,No damage,Error002
+A816,ZoneC,Very minor damage,Error001
+A817,ZoneB,Very minor damage,Error005
+A818,ZoneA,Severe damage,Error004
+A819,ZoneB,Moderate damage,Error001
+A820,ZoneD,Minor damage,Error003
+A821,ZoneB,No damage,Error002
+A822,ZoneA,Severe damage,Error001
+A823,ZoneC,Very minor damage,Error004
+A824,ZoneD,No damage,Error002
+A825,ZoneA,No damage,Error002
+A826,ZoneB,No damage,Error002
+A827,ZoneC,Severe damage,Error001
+A828,ZoneD,No damage,Error002
+A829,ZoneC,Moderate damage,Error003
+A830,ZoneD,No damage,Error002
+A831,ZoneB,Severe damage,Error004
+A832,ZoneB,No damage,Error002
+A833,ZoneD,Severe damage,Error001
+A834,ZoneD,Severe damage,Error003
+A835,ZoneA,No damage,Error002
+A836,ZoneC,Very minor damage,Error003
+A837,ZoneB,Very minor damage,Error001
+A838,ZoneD,Severe damage,Error003
+A839,ZoneD,No damage,Error002
+A840,ZoneC,Moderate damage,Error003
+A841,ZoneA,No damage,Error002
+A842,ZoneD,Severe damage,Error001
+A843,ZoneB,Very minor damage,Error005
+A844,ZoneB,Severe damage,Error005
+A845,ZoneD,Severe damage,Error005
+A846,ZoneC,Severe damage,Error003
+A847,ZoneA,No damage,Error002
+A848,ZoneA,Severe damage,Error004
+A849,ZoneA,Moderate damage,Error003
+A850,ZoneB,Minor damage,Error001
+A851,ZoneD,No damage,Error002
+A852,ZoneC,No damage,Error002
+A853,ZoneC,No damage,Error002
+A854,ZoneC,Very minor damage,Error003
+A855,ZoneB,No damage,Error002
+A856,ZoneB,Severe damage,Error001
+A857,ZoneC,No damage,Error002
+A858,ZoneB,No damage,Error002
+A859,ZoneA,Minor damage,Error003
+A860,ZoneC,Very minor damage,Error003
+A861,ZoneC,Moderate damage,Error003
+A862,ZoneA,No damage,Error002
+A863,ZoneA,Minor damage,Error004
+A864,ZoneD,Severe damage,Error005
+A865,ZoneB,No damage,Error002
+A866,ZoneB,No damage,Error002
+A867,ZoneA,Moderate damage,Error005
+A868,ZoneD,Very minor damage,Error004
+A869,ZoneD,Severe damage,Error005
+A870,ZoneC,Minor damage,Error003
+A871,ZoneC,Severe damage,Error003
+A872,ZoneC,No damage,Error002
+A873,ZoneA,Moderate damage,Error005
+A874,ZoneC,Minor damage,Error004
+A875,ZoneC,Moderate damage,Error004
+A876,ZoneB,No damage,Error002
+A877,ZoneB,Very minor damage,Error005
+A878,ZoneC,Minor damage,Error005
+A879,ZoneD,No damage,Error002
+A880,ZoneC,No damage,Error002
+A881,ZoneB,No damage,Error002
+A882,ZoneC,No damage,Error002
+A883,ZoneC,Severe damage,Error004
+A884,ZoneD,Severe damage,Error001
+A885,ZoneA,Minor damage,Error004
+A886,ZoneA,Minor damage,Error001
+A887,ZoneD,Minor damage,Error003
+A888,ZoneA,No damage,Error002
+A889,ZoneC,Very minor damage,Error003
+A890,ZoneA,No damage,Error002
+A891,ZoneB,No damage,Error002
+A892,ZoneD,No damage,Error002
+A893,ZoneB,No damage,Error002
+A894,ZoneB,Moderate damage,Error001
+A895,ZoneC,Severe damage,Error005
+A896,ZoneD,Minor damage,Error001
+A897,ZoneC,Severe damage,Error005
+A898,ZoneC,Moderate damage,Error001
+A899,ZoneA,No damage,Error002
+A900,ZoneC,No damage,Error002
+A901,ZoneA,No damage,Error002
+A902,ZoneB,Severe damage,Error005
+A903,ZoneC,Severe damage,Error001
+A904,ZoneC,No damage,Error002
+A905,ZoneD,Very minor damage,Error003
+A906,ZoneD,Very minor damage,Error005
+A907,ZoneA,Minor damage,Error001
+A908,ZoneB,No damage,Error002
+A909,ZoneB,Severe damage,Error001
+A910,ZoneD,Severe damage,Error003
+A911,ZoneA,Very minor damage,Error001
+A912,ZoneC,Moderate damage,Error005
+A913,ZoneB,Moderate damage,Error001
+A914,ZoneA,No damage,Error002
+A915,ZoneB,No damage,Error002
+A916,ZoneA,No damage,Error002
+A917,ZoneD,Very minor damage,Error001
+A918,ZoneD,Minor damage,Error003
+A919,ZoneA,No damage,Error002
+A920,ZoneA,No damage,Error002
+A921,ZoneA,Very minor damage,Error004
+A922,ZoneA,No damage,Error002
+A923,ZoneA,No damage,Error002
+A924,ZoneB,Moderate damage,Error001
+A925,ZoneD,No damage,Error002
+A926,ZoneB,Moderate damage,Error005
+A927,ZoneA,Minor damage,Error005
+A928,ZoneB,No damage,Error002
+A929,ZoneD,No damage,Error002
+A930,ZoneD,Moderate damage,Error004
+A931,ZoneB,Minor damage,Error003
+A932,ZoneC,Severe damage,Error004
+A933,ZoneB,Minor damage,Error001
+A934,ZoneC,No damage,Error002
+A935,ZoneB,No damage,Error002
+A936,ZoneB,Very minor damage,Error003
+A937,ZoneA,No damage,Error002
+A938,ZoneA,Moderate damage,Error004
+A939,ZoneD,Moderate damage,Error003
+A940,ZoneD,Severe damage,Error003
+A941,ZoneD,Very minor damage,Error001
+A942,ZoneB,Severe damage,Error003
+A943,ZoneA,No damage,Error002
+A944,ZoneD,Severe damage,Error001
+A945,ZoneB,No damage,Error002
+A946,ZoneD,Minor damage,Error005
+,ZoneC,Severe damage,Error005
+A2000,ZoneB,No damage,Error010

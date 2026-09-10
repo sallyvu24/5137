@@ -1,0 +1,6 @@
+"MAINTENANCETYPE","MAINTENANCEDESCRIPTION"
+M001,System Upgrade
+M002,Hardware Upgrade:Sensor
+M003,Hardware Upgrade:Lidar system
+M004,Battery replacement
+M005,Regular maintenance
