@@ -1,0 +1,44 @@
+Assignment 2:Data Warehouse Major Assignment,,,,,
+,,,,,
+,,,,,
+Report,Weight,40%,,TASK,MARK
+TASK,MARKING CRITERIA,MARK Level,,Report,40
+A.Transformation Stage,,,,Video presentation,60
+Data Cleaning,"Grading Criteria: Marks are based on the types of data errors identified, the appropriateness of the data cleaning performed, and the quality of the explanation of the cleaning strategy.
+
+To achieve an HD, you should identify and appropriately address at least five different types of data errors.
+
+For further details, please refer to the FAQ page.",7.50%,,Total,100
+,,,,,
+,,,,,
+,,,,,
+B. Data Warehousing Stage,,,,,
+Star Schema diagram for Highest Aggregation [Version - 1],"* The star schema design is correct and includes all required dimensions and fact measures.
+* Version 1 (V1) represents the highest level of aggregation required for the analysis.",22.50%,,,
+Star Schema diagram for No Aggregation [Version - 2],"* The star schema design is correct and includes all the necessary dimensions and fact measures.
+* Version 2 (V2) represents the non-aggregated level of the star schema [Level 0].
+* User-defined dimensions are removed from Version 2.",,,,
+"Star/Snowflake Implementation for Version - 1
+-Table structure ","Correctness of the star schema design implementation
+Provide screenshots of the contents",,,,
+B.Data Analytic Stage,,,,,
+Descriptive Analysis & Relevant query implementation ,"Marking is based on:
+        •        Explanation of findings: Clear and relevant to the client’s focus area.
+        •        Supporting evidence: Sufficient data provided to justify and back up the findings",10%,,,
+Power BI Visualisations,"* Power BI visualisations are appropriate and correctly represent the analysed data.
+* Visualisations clearly communicate the key findings, patterns, and comparisons identified in the analysis.
+* Visualisations provide sufficient evidence to support the recommendation or argument presented in the report.",,,,
+,,,,,
+Additional Criteria,,,,,
+Report Document Readability,Report is neat and clear with sufficient headings and consistent format,Up to 5% deduction,,,
+,,,,,
+Correct and relevant component submission- tasks (A-F).,"
+All required tasks are provided according to the submission checklist",,,,
+,,,,,
+Video presentation,Weight,60%,,,
+Marking criteria,N Level,P Level,C Level,D Level,HD Level
+"The Quality of Content: Extracting Key Points (Data Cleaning, Star Schema, Descriptive Analysis)","The explanation of data cleaning, star schema design, and descriptive analysis is vague and lacks detailed discussion. Critical steps or components may be missing, showing a superficial understanding of these tasks.","Provides a basic explanation of data cleaning, star schema design, and descriptive analysis. Some steps are covered, but the discussion is not detailed, and key elements may be underexplored.","The explanation covers the main aspects of data cleaning, star schema design, and descriptive analysis with a reasonable level of detail. Most key points are discussed, indicating a solid understanding of the tasks.","The explanation is detailed and well-structured, thoroughly covering data cleaning, star schema design, and descriptive analysis. The discussion includes all critical steps and components, showing a strong understanding of the tasks.","The explanation is comprehensive and highly detailed, clearly and thoroughly covering all aspects of data cleaning, star schema design, and descriptive analysis. All critical points are discussed in depth, showing an excellent understanding of the tasks."
+"The Depth of Knowledge of the Topic (Data Cleaning, Star Schema, Descriptive Analysis)","The student shows minimal understanding of data cleaning, star schema design, and descriptive analysis. The tasks are completed with significant gaps or errors.","The student demonstrates a basic understanding of data cleaning, star schema design, and descriptive analysis. The tasks are completed with some minor errors or omissions.","The student shows a solid understanding of data cleaning, star schema design, and descriptive analysis. The tasks are completed with attention to most details and minimal errors.","The student demonstrates a strong understanding of data cleaning, star schema design, and descriptive analysis. The tasks are completed accurately and comprehensively.","The student shows an excellent understanding of data cleaning, star schema design, and descriptive analysis. The tasks are completed with precision and attention to all details."
+The quality of the presentation in terms of preparedness and clarity,Lack of preparedness and professionalism. The speaker is not included in the video. The presentation does not have any logical structure.,The speaker shows reasonable preparation and professionalism. The speaker is included in the video. Some attempt at presenting the idea in a logical manner but still poorly done.,The speaker shows sufficient preparation and professionalism. The speaker is included in the video. The presentation has sufficient logical structure.,The speaker prepared well and shows professionalism. The speaker is included in the video. The idea is presented in a clear logical manner.,Excellent explanation of idea with clear structure and excellent supporting evidence. Explanation is presented clearly and flowed smoothly from one point to the next in logical sequence in a sophisticated way.
+The amount of time spent in the presentation (5 minutes),Presentation is too short (less than 3 minutes) or too long (longer than 7 minutes),"Presentation is shorter than 3.5 minutes or longer than 6 minutes, but still within 3 and 7 minutes","Presentation is shorter than 4 minutes or longer than 6 minutes, but still within 3.5 and 6.5 minutes","Presentation is shorter than 4.5 minutes or longer than 5.5 minutes, but still within 4 and 6 minutes",Presentation is within 4.5 and 5.5 minutes
+The video quality,"The video quality is poor, where it is difficult to listen to the voice clearly and the visual was unclear.",The video quality is acceptable although there sometimes the quality of images and sound are not perfectly clear.,The video is reasonable with some effort in using the presentation media. Audio and video are in reasonable quality.,Very good used of the media. Audio and video are clear and in a high quality.,The video quality is excellent. Student shows a high effort in presenting the video and keeping the audiences' attention throughout the five minutes presentation.
